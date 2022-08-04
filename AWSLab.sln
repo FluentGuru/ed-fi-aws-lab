@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSLab", "AWSLab\AWSLab.csproj", "{9FFE15DB-1EC2-41E8-87FB-6AEF9713E08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FFE15DB-1EC2-41E8-87FB-6AEF9713E08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFE15DB-1EC2-41E8-87FB-6AEF9713E08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFE15DB-1EC2-41E8-87FB-6AEF9713E08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFE15DB-1EC2-41E8-87FB-6AEF9713E08B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4649591C-014F-482C-9BEB-FA2153847672}
+	EndGlobalSection
+EndGlobal
